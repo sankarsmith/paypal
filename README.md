@@ -12,7 +12,7 @@ git push -u origin master
 
 Paypal Payment Intergration Method for Web-based Payment process.
 
-Steps.
+# Steps
 
 1.Make a form submit to the payments.php file with the values like amount biller email etc..(index.html)
 
