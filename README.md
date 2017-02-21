@@ -1,5 +1,5 @@
-# paypal
-echo "# paypal" >> README.md
+# Paypal
+echo "# Paypal" >> README.md
 git init
 git add README.md
 git commit -m "first commit"
